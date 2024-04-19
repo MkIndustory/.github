@@ -1,6 +1,6 @@
-# **大学食堂アプリ のPrivacy Policy**
+# **大学食堂アプリ と 爆速QRコードリーダー のPrivacy Policy**
 
-This privacy policy applies to the 大学食堂アプリ (hereby referred to as "Application") for mobile devices that was created by Miyako Kikutsuji (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the 大学食堂アプリ / 爆速QRコードリーダー (hereby referred to as "Application") for mobile devices that was created by Miyako Kikutsuji (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
