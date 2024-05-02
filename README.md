@@ -1,6 +1,9 @@
-# **大学食堂アプリ と 爆速QRコードリーダー(RapidQR Scanner) のPrivacy Policy**
+# **大学食堂アプリ**
+# **爆速QRコードリーダー(RapidQR Scanner)**
+# **サクッとAI Wi-Fi(RapidAI Wi-Fi)**
+# **のPrivacy Policy**
 
-This privacy policy applies to the 大学食堂アプリ / 爆速QRコードリーダー(RapidQR Scanner) (hereby referred to as "Application") for mobile devices that was created by Miyako Kikutsuji (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the 大学食堂アプリ / 爆速QRコードリーダー(RapidQR Scanner) / サクッとAI Wi-Fi(RapidAI Wi-Fi) (hereby referred to as "Application") for mobile devices that was created by Miyako Kikutsuji (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
